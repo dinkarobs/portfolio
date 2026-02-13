@@ -1,0 +1,42 @@
+
+
+table, th, td {
+    border: 5px ghostwhite;
+    margin-top: 20px;
+}
+td, th {
+    padding: 10px; color: ghostwhite;
+}
+a {
+    display: inline-block;
+    background-color: #daa520;
+    padding:4px;
+    margin-right:10px;
+}
+
+
+
+
+
+ table, tr, th, td {
+     border:5px ghostwhite solid; color: ghostwhite;
+     padding: 15px; color: ghostwhite;
+     border-collapse: collapse;
+ }
+
+h1{color:ghostwhite;font-family: "fantasy";
+}
+a:hover{color: crimson}
+a:visited{color: cyan}
+a:active{color: gold}
+details{color: goldenrod;+details{color: mediumblue}}
+summary{font-family: Charter}
+h2{color: ghostwhite; font-family: Didot}
+h3{color: dodgerblue}
+table{background-color: blue}
+th{font-family: "Geeza Pro"}
+body{background-color:#daa520 }
+.links{font-family: Didot; font-size: x-large}
+#ID{font-size: larger; font-family: "Geeza Pro"}
+.king{font-family: "fantasy"; font-size: x-large}
+.king{color: gold}
